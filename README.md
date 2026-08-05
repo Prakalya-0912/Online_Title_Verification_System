@@ -38,7 +38,7 @@ The system compares the entered project title with the titles stored in the data
 - Render
 
 📂 Project Structure
-
+```text
 Online_Title_Verification_System
 │
 ├── frontend
@@ -58,6 +58,8 @@ Online_Title_Verification_System
 │   └── Dockerfile
 │
 └── README.md
+```
+
 
 🔄System Workflow
 
