@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", Arial, sans-serif;
+    background: linear-gradient(135deg, #dbeafe, #eff6ff);
+}
+
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.result-card {
+    background: white;
+    width: 520px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    text-align: center;
+}
+
+.result-card h2 {
+    color: #1e40af;
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.result-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    padding: 18px;
+    margin: 18px 0;
+}
+
+.result-box h3 {
+    color: #2563eb;
+    margin-bottom: 8px;
+}
+
+.result-box p {
+    font-size: 17px;
+    color: #374151;
+}
+
+.available {
+    color: #16a34a;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.exists {
+    color: #dc2626;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.result-card button {
+    width: 100%;
+    margin-top: 25px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.result-card button:hover {
+    background: #1d4ed8;
+    transform: scale(1.02);
+}
