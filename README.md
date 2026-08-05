@@ -76,12 +76,9 @@ By comparing the entered title with stored project titles, the system quickly in
 ⚠️ Similar Title Found
 
 🌍Live Demo
-🎨Frontend
+[Frontend](https://online-title-verification-system-frontend.onrender.com)
 
-[🚀 Online Title Verification System] (https://online-title-verification-system-frontend.onrender.com/)
-⚙️Backend
-
-[🔧 Backend API] (https://online-title-verification-system-backend.onrender.com)
+[Backend](https://online-title-verification-system-backend.onrender.com)
 🎯𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓖𝓸𝓪𝓵
 To provide an efficient, user-friendly, and reliable platform for verifying project titles, reducing duplicate submissions, and improving the project selection process for students and academic institutions.
 
