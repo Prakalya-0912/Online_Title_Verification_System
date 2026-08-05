@@ -78,7 +78,7 @@ By comparing the entered title with stored project titles, the system quickly in
 🌍Live Demo
 🎨Frontend
 
-[🚀 Online Title Verification System] (https://online-title-verification-system-frontend.onrender.com)
+[🚀 Online Title Verification System] (https://online-title-verification-system-frontend.onrender.com/)
 ⚙️Backend
 
 [🔧 Backend API] (https://online-title-verification-system-backend.onrender.com)
